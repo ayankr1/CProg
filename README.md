@@ -1,1 +1,1 @@
-# CProgram dumps tricky questions for Assessments
+# C Program dumps tricky questions for Assessments
